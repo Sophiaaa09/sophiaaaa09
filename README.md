@@ -7,9 +7,3 @@ Meu nome é Sophia
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
-
-Sophiaolivsouza@gmail.com
-
-
-![descrição do GIF](link GIF do Tenor)
